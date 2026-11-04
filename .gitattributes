@@ -1,0 +1,7 @@
+# Normalizacion de finales de linea
+* text=auto
+*.cpp text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.png binary
+*.pdf binary

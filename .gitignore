@@ -1,0 +1,18 @@
+# Ejecutables y binarios generados por el compilador
+*.exe
+*.out
+*.o
+*.obj
+
+# Configuracion local del editor
+.vscode/
+.idea/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Archivos del sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
